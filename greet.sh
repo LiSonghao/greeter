@@ -1,1 +1,3 @@
+date
+
 echo "hello SONG"
